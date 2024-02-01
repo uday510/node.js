@@ -3,8 +3,8 @@
         {
             "type": "node",
             "name": "Node.js configuration",
-            "file": "Basics/server.js",
+            "file": "01-understanding-npm-scripts/app.js",
         },
-        
+
     ]
 }
